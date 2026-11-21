@@ -18,7 +18,7 @@ Vision відтворює відео, звук і ТБ-канали з файл�
 
 **Версія 1.0.** [Vision-1.0.apk](https://github.com/drugoj00/vision/releases/download/v1.0/Vision-1.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
 
-SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
+SHA-256: `fc5ccc83b714711a90198b074acd735fe9285e03c6f557d7946dd9dd591c86fb`
 
 Немає в Google Play: завантаж APK тут. Android може попередити про встановлення з невідомого джерела.
 
@@ -28,6 +28,7 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 - «Вікно»: «картинка в картинці», а де її немає, власне плаваюче вікно (переміщення, розмір, пульт)
 - Декодер «Апаратний+»: наскрізний звук AC3, E-AC3, DTS, відео програмно, якщо приставка його не тягне
 - Компактна панель плеєра: кнопки налаштовуються, зайві сховано в меню
+- Прозора панель плеєра з регулюванням, літери на власній підкладці
 - Нижня панель вкладок на телефоні: Головна, Канали, Джерела, Завантаження, Історія, Налаштування
 - Завантаження: торенти й файли за посиланнями у вибрану теку
 - Торенти за magnet і .torrent, перегляд під час завантаження; серії зі смужкою перегляду й автопереходом
@@ -66,10 +67,6 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 Зроблено на світлій темі; мова інтерфейсу на них російська.
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/1-player.png" width="600">
-</p>
-
-<p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/2-home.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/3-channels.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/4-channels-list.png" width="200">
 </p>
 
@@ -78,11 +75,7 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/9-decoder.png" width="600">
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/10-window.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/11-settings.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/14-dark-channels.png" width="200">
+<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/11-settings.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/uk/14-dark-channels.png" width="200">
 </p>
 
 ## Ліцензія

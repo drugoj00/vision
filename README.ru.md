@@ -18,7 +18,7 @@ Vision воспроизводит видео, звук и ТВ-каналы из
 
 **Версия 1.0.** [Vision-1.0.apk](https://github.com/drugoj00/vision/releases/download/v1.0/Vision-1.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
 
-SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
+SHA-256: `fc5ccc83b714711a90198b074acd735fe9285e03c6f557d7946dd9dd591c86fb`
 
 Нет в Google Play: скачай APK здесь. Android может предупредить об установке из неизвестного источника.
 
@@ -28,6 +28,7 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 - «Окно»: «картинка в картинке», а где её нет, собственное плавающее окно (перемещение, размер, пульт)
 - Декодер «Аппаратный+»: сквозной звук AC3, E-AC3, DTS, видео программно, если приставка его не тянет
 - Компактная панель плеера: кнопки настраиваются, лишние убраны в меню
+- Прозрачная панель плеера с регулировкой, буквы на своей подложке
 - Нижняя панель вкладок на телефоне: Главная, Каналы, Источники, Загрузки, История, Настройки
 - Загрузки: торренты и файлы по ссылкам в выбранную папку
 - Торренты по magnet и .torrent, просмотр во время загрузки; серии с полоской просмотра и автопереходом
@@ -66,10 +67,6 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 Сняты на светлой теме.
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/1-player.png" width="600">
-</p>
-
-<p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/2-home.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/3-channels.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/4-channels-list.png" width="200">
 </p>
 
@@ -78,23 +75,15 @@ SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/5-sources.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/6-downloads.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/7-history.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/8-favorites.png" width="200">
+<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/5-sources.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/8-favorites.png" width="200">
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/9-decoder.png" width="600">
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/10-window.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/11-settings.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/12-settings-video.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/13-settings-player.png" width="200">
+<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/11-settings.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/12-settings-video.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/13-settings-player.png" width="200">
 </p>
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/14-dark-channels.png" width="200">
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/ru/15-dark-player.png" width="600">
 </p>
 
 <p>
