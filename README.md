@@ -18,7 +18,7 @@ Vision plays video, audio and TV channels from files, links, playlists, network 
 
 **Version 1.0.** [Vision-1.0.apk](https://github.com/drugoj00/vision/releases/download/v1.0/Vision-1.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
 
-SHA-256: `fc5ccc83b714711a90198b074acd735fe9285e03c6f557d7946dd9dd591c86fb`
+SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
@@ -28,7 +28,6 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - "Window": picture-in-picture, and where the system has none, an own floating window (move, resize, remote control)
 - "Hardware+" decoder: AC3, E-AC3, DTS passthrough, video in software when the box cannot handle it
 - Compact player panel: buttons are configurable, the rest go to the menu
-- Player panel with adjustable transparency, text on its own backing
 - Bottom tab bar on phones: Home, Channels, Sources, Downloads, History, Settings
 - Downloads: torrents and files by links into a chosen folder
 - Torrents by magnet or .torrent, playback while downloading; episodes with watch progress and auto-play of the next one
