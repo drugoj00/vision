@@ -4,9 +4,11 @@
 
 # Vision
 
-Media player for Android phones and TV boxes: torrents, IPTV with a built-in channel catalog, network folders, auto volume. Own engine, no ads.
+**Attention! Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
 
-Vision plays video, audio and TV channels from files, links, playlists, network folders (SMB, WebDAV, DLNA, FTP, SFTP) and torrents, with playback while downloading. A built-in catalog of TV channels by category works without any setup. Auto Volume keeps the sound even and tames loud commercials. Paste a link, open a file or a playlist, press play.
+Media player for Android phones and TV boxes: torrents, IPTV playlists of your own, network folders, auto volume. Own engine, no ads.
+
+Vision plays video, audio and TV channels from files, links, playlists, network folders (SMB, WebDAV, DLNA, FTP, SFTP) and torrents, with playback while downloading. Add your own playlist (a link or an M3U, M3U8, XSPF or PLS file) and the channels appear as tiles with logos. Auto Volume keeps the sound even and tames loud commercials. Paste a link, open a file or a playlist, press play.
 
 **Vision provides no content. The user is responsible for complying with the copyright laws of their country.**
 
@@ -16,27 +18,24 @@ Vision plays video, audio and TV channels from files, links, playlists, network 
 
 **Version 1.0.** [Vision-1.0.apk](https://github.com/drugoj00/vision/releases/download/v1.0/Vision-1.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
 
-SHA-256: `606ba6773fcbdc858d82e15e2448514672e6c88b522e2673bdde5894e0d5d387`
+SHA-256: `c4d074123dd484afc2caa25511ae49ad6b7adfe6f03f61508451c0f68c27dacb`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
 ## What's new in 1.0
 
-- Built-in catalog of TV channels by category: updates itself, works without setup
+- Channels as tiles with logos: 3 columns or more in portrait and 6 or more in landscape on phones; add your own playlist by link or from a file
 - "Window": picture-in-picture, and where the system has none, an own floating window (move, resize, remote control)
 - "Hardware+" decoder: AC3, E-AC3, DTS passthrough, video in software when the box cannot handle it
 - Compact player panel: buttons are configurable, the rest go to the menu
 - Bottom tab bar on phones: Home, Channels, Sources, Downloads, History, Settings
 - Downloads: torrents and files by links into a chosen folder
-- Torrents by magnet or .torrent, playback while downloading
-- Episodes with watch progress, "Continue" and auto-play of the next one
+- Torrents by magnet or .torrent, playback while downloading; episodes with watch progress and auto-play of the next one
 - Auto Volume: TV mode cuts loud commercials
 - IPTV playlists, favorites, search, TV guide, a mark on dead channels, own playlists with an editor
 - Sources: SMB, WebDAV, DLNA, FTP, SFTP and device folders
-- Swipe gestures, A-B repeat, bookmarks, speed 0.25-4x
-- Settings in groups with search, backup and restore
-- Russian, Ukrainian and English, light, dark and black themes
-- "What's new" window on update
+- Swipe gestures, A-B repeat, bookmarks, speed 0.25-4x, "What's new" window on update
+- Settings in groups with search, backup and restore; Russian, Ukrainian and English, light, dark and black themes
 
 ## Features
 
@@ -46,8 +45,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - **Window.** The video over other apps: picture-in-picture, and where the system has none, an own floating window with move, resize and remote control.
 - **Decoders.** "Auto", "Hardware", "Hardware+" (AC3, E-AC3, DTS passthrough, video in software if the box cannot handle it) and "Software"; AV1.
 - **Auto Volume.** A TV mode that tames loud commercials; a switch in settings and in the Audio panel.
-- **IPTV.** M3U, M3U8, XSPF and PLS playlists, groups, favorites, search, an XMLTV guide, a mark on dead channels; own playlists with an editor.
-- **Channel catalog.** A built-in set of TV channels by category: updates itself, works without setup.
+- **IPTV.** M3U, M3U8, XSPF and PLS playlists, groups, favorites, search, an XMLTV guide, a mark on dead channels; channels as tiles with logos or a list (3 columns or more in portrait and 6 or more in landscape on phones); own playlists with an editor.
 - **Sources.** SMB, WebDAV, DLNA, FTP, SFTP and device folders; "Video" and "Audio" collections.
 - **Downloads.** Torrents and files by links into a chosen folder.
 - **Engine.** Speed limits, connections, port, DHT and LSD, mobile network, buffer ahead, cache on device memory or an external drive.
@@ -72,7 +70,11 @@ Taken in the light theme; the interface language in them is Russian.
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/2-home.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/3-channels-catalog.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/4-channels-list.png" width="200">
+<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/2-home.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/3-channels.png" width="200"> <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/4-channels-list.png" width="200">
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/3b-channels-landscape.png" width="600">
 </p>
 
 <p>
