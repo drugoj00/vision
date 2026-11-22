@@ -4,7 +4,7 @@
 
 # Vision
 
-**Attention! Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
+**Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
 
 Media player for Android phones and TV boxes: torrents, IPTV playlists of your own, network folders, auto volume. Own engine, no ads.
 
@@ -25,15 +25,18 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 ## What's new in 1.0
 
 - Channels as tiles with logos: 3 columns or more in portrait and 6 or more in landscape on phones; add your own playlist by link or from a file
-- "Window": picture-in-picture, and where the system has none, an own floating window (move, resize, remote control)
+- "Window": own floating window (move, resize, remote control)
 - "Hardware+" decoder: AC3, E-AC3, DTS passthrough, video in software when the box cannot handle it
 - Compact player panel: buttons are configurable, the rest go to the menu
 - Player panel with adjustable transparency, text on its own backing
 - Panel text size is adjustable; text is thinner and smaller
 - Bottom tab bar on phones: Home, Channels, Sources, Downloads, History, Settings
-- Downloads: torrents and files by links into a chosen folder
 - Torrents by magnet or .torrent, playback while downloading; episodes with watch progress and auto-play of the next one
 - Auto Volume: TV mode cuts loud commercials
+- Own downloader: HTTP(S) links and torrents (magnet, .torrent) into a chosen folder, file selection, queue, pause and resume, speed limit
+- Playlist wizard: step-by-step adding for beginners (link, file, archive, clipboard, list of addresses)
+- Playlists from archives (ZIP, GZ…) are added by themselves
+- Passthrough sound "RAW via PCM" and "Convert to AC3" for receivers
 - IPTV playlists, favorites, search, TV guide, a mark on dead channels, own playlists with an editor
 - Sources: SMB, WebDAV, DLNA, FTP, SFTP and device folders
 - Swipe gestures, A-B repeat, bookmarks, speed 0.25-4x, "What's new" window on update
@@ -44,7 +47,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - **Torrents.** A magnet link, a .torrent file or link, or "Share" from another app. The file list comes first, then only the chosen file is downloaded, in a window around the playback position. Seek anywhere.
 - **Series.** Watch progress bar, "Continue" and auto-play of the next episode.
 - **Player.** Media3 with external subtitles (.srt, .ass, .vtt), audio and subtitle tracks, screen size modes, speed 0.25-4x, A-B repeat, bookmarks, picture rotation and mirror, volume gain up to 200%, swipe gestures, sleep timer. A compact control panel with configurable buttons. Remote, touch and mouse.
-- **Window.** The video over other apps: picture-in-picture, and where the system has none, an own floating window with move, resize and remote control.
+- **Window.** The video over other apps in an own floating window with move, resize and remote control.
 - **Decoders.** "Auto", "Hardware", "Hardware+" (AC3, E-AC3, DTS passthrough, video in software if the box cannot handle it) and "Software"; AV1.
 - **Auto Volume.** A TV mode that tames loud commercials; a switch in settings and in the Audio panel.
 - **IPTV.** M3U, M3U8, XSPF and PLS playlists, groups, favorites, search, an XMLTV guide, a mark on dead channels; channels as tiles with logos or a list (3 columns or more in portrait and 6 or more in landscape on phones); own playlists with an editor.
@@ -60,7 +63,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - Android 6.0 or newer (ARMv7, ARM64, x86_64). Permissions: network, notifications (Android 13 and newer), start at boot.
 - Internet is needed for torrents and IPTV. In countries that prohibit torrents they are blocked until confirmation; the country is detected offline. NFS is not supported.
 - Software AV1 on weak boxes: 720p plays smoothly, 1080p drops frames, 4K is too heavy.
-- The floating window needs "Display over other apps"; picture-in-picture works where the system supports it.
+- The floating window needs "Display over other apps".
 - Tested on an Android 15 phone and a TV box. Not verified: car head units, Stalker portals, TV guide archives (zip, JTV), reminders, external-drive cache, Dolby/DTS passthrough on real HDMI equipment.
 
 ## Screenshots
