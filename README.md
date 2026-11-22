@@ -46,7 +46,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 
 - **Torrents.** A magnet link, a .torrent file or link, or "Share" from another app. The file list comes first, then only the chosen file is downloaded, in a window around the playback position. Seek anywhere.
 - **Series.** Watch progress bar, "Continue" and auto-play of the next episode.
-- **Player.** Media3 with external subtitles (.srt, .ass, .vtt), audio and subtitle tracks, screen size modes, speed 0.25-4x, A-B repeat, bookmarks, picture rotation and mirror, volume gain up to 200%, swipe gestures, sleep timer. A compact control panel with configurable buttons. Remote, touch and mouse.
+- **Player.** Media3 with external subtitles (.srt, .ass, .vtt), audio and subtitle tracks, screen size modes, speed 0.25-4x, A-B repeat, bookmarks, picture rotation, volume gain up to 200%, swipe gestures, sleep timer. A compact control panel with configurable buttons. Remote, touch and mouse.
 - **Window.** The video over other apps in an own floating window with move, resize and remote control.
 - **Decoders.** "Auto", "Hardware", "Hardware+" (AC3, E-AC3, DTS passthrough, video in software if the box cannot handle it) and "Software"; AV1.
 - **Auto Volume.** A TV mode that tames loud commercials; a switch in settings and in the Audio panel.
