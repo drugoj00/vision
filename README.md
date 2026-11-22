@@ -40,7 +40,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - IPTV playlists, favorites, search, TV guide, a mark on dead channels, own playlists with an editor
 - Sources: SMB, WebDAV, DLNA, FTP, SFTP and device folders
 - Swipe gestures, A-B repeat, bookmarks, speed 0.25-4x, "What's new" window on update
-- Settings in groups with search, backup and restore; Russian, Ukrainian and English, light, dark and black themes
+- Settings in groups with search, backup and restore; light, dark and black themes
 
 ## Features
 
@@ -55,7 +55,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - **Downloads.** Torrents and files by links into a chosen folder.
 - **Engine.** Speed limits, connections, port, DHT and LSD, mobile network, buffer ahead, cache on device memory or an external drive.
 - **Phones, TV boxes and car head units.** Touch, mouse and remote control; a large interface on big screens.
-- **Settings.** Nine groups with search, full backup and restore. Russian, Ukrainian and English; light, dark and black themes.
+- **Settings.** Nine groups with search, full backup and restore. Light, dark and black themes.
 - **Updates.** Update check on GitHub with a file check and a "What's new" window.
 
 ## Requirements and limits
@@ -68,7 +68,7 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 
 ## Screenshots
 
-Taken in the light theme; the interface language in them is Russian.
+Taken in the light theme.
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision/main/screenshots/en/1-player.png" width="600">
