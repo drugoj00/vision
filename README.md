@@ -16,13 +16,18 @@ Vision plays video, audio and TV channels from files, links, playlists, network 
 
 ## Download
 
-**Version 1.0.** [Vision-1.0.apk](https://github.com/drugoj00/vision/releases/download/v1.0/Vision-1.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
+**Version 2.0.** [Vision-2.0.apk](https://github.com/drugoj00/vision/releases/download/v2.0/Vision-2.0.apk) · [Releases](https://github.com/drugoj00/vision/releases)
 
-SHA-256: `07e2a8de0a9dd523264761fdf20a9ee684b9241a35c28830130134d7cd2bc475`
+SHA-256: `e717f76c610eab8633a5d7c21286532cd703739e2a221f22ce055af14fcc5594`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 1.0
+## What's new in 2.0
+
+- Playlist wizard: add a link or a file from a phone by a QR code
+- Smooth work: channel tiles scroll without stutter, logos load in the background
+
+## What was new in 1.0
 
 - Channels as tiles with logos: 3 columns or more in portrait and 6 or more in landscape on phones; add your own playlist by link or from a file
 - "Window": own floating window (move, resize, remote control)
